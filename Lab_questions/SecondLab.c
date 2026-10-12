@@ -39,7 +39,7 @@ int main()
 // Task[2] : == == == == =
 #include <stdio.h>
 
-                          int isPerfectSquare(int n)
+int isPerfectSquare(int n)
 {
     int i;
 
